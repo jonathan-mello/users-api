@@ -34,7 +34,6 @@ http://localhost:3000/login
     "email": "jonathan@gmail.com",
     "password": "123456"
 }
-
 ```
 
 **GET (privada)**
@@ -44,7 +43,6 @@ http://localhost:3000/list
 - authorization
 ```
 - Bearer TOKEN
-
 ```
 
 ## Para rodar a aplicação:
